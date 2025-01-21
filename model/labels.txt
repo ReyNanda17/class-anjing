@@ -1,0 +1,3 @@
+0 Samoyed
+1 Pitbull
+2 Husky
